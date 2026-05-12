@@ -1,5 +1,5 @@
 [README .md](https://github.com/user-attachments/files/27645604/README.md)
-# Audio-Analysis｜USB 三麦克风录音上传系统
+# Audio-Analysis｜智能声音收集与分析系统
 
 > 通过部署声音传感设备，对火电除灰装置的爆炸/冲击效果进行音频采集与后续分析。
 
